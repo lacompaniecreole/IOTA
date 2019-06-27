@@ -2,6 +2,8 @@ package ma.exelib.projet.classes;
 
 public class Employe extends Personne{
 	
+	///COMMENTAIRE BRANCHES
+	
 	protected double Salaire;
 	
 	public Employe( String nom, String prenom, double salaire) {
