@@ -21,5 +21,6 @@ public class Professeur extends Employe{
 	public String toString() {
 		return super.toString() + "Specialite=" + Specialite ;
 	}
+	//va te faire
 
 }
